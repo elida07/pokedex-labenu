@@ -3,7 +3,9 @@
 ## Descrição
 Projeto desenvolvido através da Labenu, em dupla e realizado em apenas 5 dias.
   
-  Nesse projeto foi desenvolvido um WebApp que imita os aplicativos de delivery, feito em Mobile First, usando as seguintes tecnologias:
+  Nesse projeto foi desenvolvido um WebApp utilizando uma API pública, a PokéAPI, é possível capturar os pokémons e ver o detalhes sobre eles.
+  
+  Foram usadas as seguintes tecnologias:
   - React (hooks, router, axios)
   - API Rest
   - Estilização feita com Material UI e styled-components
